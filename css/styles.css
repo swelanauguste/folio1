@@ -1,5 +1,11 @@
-html, body{
-    font-family: 'Montserrat', sans-serif;
-    margin: 0;
-    padding: 0;
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("../img/bg-img5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
 }
